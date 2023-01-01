@@ -1,6 +1,6 @@
 ### Hi there👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Ankit+Kumar+verma!;Backend-+Developer...;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Ankit+Kumar+verma!;Backend-+Developer...;" style="width: 90%;">
 
 
 Hello, I am a passionate back-end Developer,
@@ -22,21 +22,18 @@ always looking to find the best thing of which are helpful in learning Back-end 
 </ul>
 
 <br/>
-❤ Views and Followers <br/>
-<!-- <a href="https://twitter.com/SubodhP21161089">
-  <img align="left" alt="Subodh Pal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
-<a href="https://www.linkedin.com/in/subodh-pal-285474233/">
+❤ other site and Followers <br/>
+<a href="https://www.linkedin.com/in/ankit-kumar-verma-7773b6226/">
   <img align="left" alt="Subodh Pal LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 
-<a href="https://leetcode.com/SubodhPal/">
+<a href="https://leetcode.com/av95766/">
   <img align="left" alt="Subodh Pal Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
 </a>
 
 
-<a href="https://www.hackerrank.com/palsubodh390">
-  <img align="left" alt="Subodh Pal Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
+<a href="https://youtube.com/Avverma9">
+  <img align="left" alt="Subodh Pal Hackerrank" width="100px" src="https://1000logos.net/wp-content/uploads/2017/05/Color-YouTube-logo.jpg" />
 </a>
 <!-- <a href="https://github.com/palsubodh?tab=followers"><img src="https://img.shields.io/github/followers/nitish906?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
