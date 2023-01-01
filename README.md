@@ -32,8 +32,8 @@ always looking to find the best thing of which are helpful in learning Back-end 
 </a>
 
 
-<a href="https://youtube.com/Avverma9">
-  <img align="left" alt="Subodh Pal Hackerrank" width="100px" src="https://1000logos.net/wp-content/uploads/2017/05/Color-YouTube-logo.jpg" />
+<a href="https://youtube.com/@Avverma9">
+  <img align="left" alt="Subodh Pal Hackerrank" width="80px" src="https://1000logos.net/wp-content/uploads/2017/05/Color-YouTube-logo.jpg" />
 </a>
 <!-- <a href="https://github.com/palsubodh?tab=followers"><img src="https://img.shields.io/github/followers/nitish906?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
