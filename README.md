@@ -1,529 +1,91 @@
-<p align="center"><img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/cover.gif?raw=true"/></p>
+### Hi there👋
 
-<h1 align="center">Animated Text Kit</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Ankit+Kumar+verma!;Backend-+Developer...;" style="width: 100%;">
 
-<p align="center">A flutter package which contains a collection of some cool and awesome text animations. Recommended package for text animations in Codemagic's Ebook, <a href="https://blog.codemagic.io/flutter-libraries-ebook-by-codemagic/ebook-flutter-libraries-we-love-by-codemagic.pdf">"Flutter libraries we love"</a>. Try out our <a href="https://animated-text-kit.web.app/">live example app</a>.</p><br>
 
-<p align="center">
-  <a href="https://flutter.dev">
-    <img src="https://img.shields.io/badge/Platform-Flutter-02569B?logo=flutter"
-      alt="Platform" />
-  </a>
-  <a href="https://pub.dartlang.org/packages/animated_text_kit">
-    <img src="https://img.shields.io/pub/v/animated_text_kit.svg"
-      alt="Pub Package" />
-  </a>
-  <a href="https://github.com/aagarwal1012/Animated-Text-Kit/actions?query=workflow%3ACI">
-    <img src="https://img.shields.io/github/workflow/status/aagarwal1012/Animated-Text-Kit/CI?logo=github"
-      alt="Build Status" />
-  </a>
-  <br>
-  <a href="https://codecov.io/gh/aagarwal1012/Animated-Text-Kit">
-    <img src="https://codecov.io/gh/aagarwal1012/Animated-Text-Kit/branch/master/graph/badge.svg"
-      alt="Codecov Coverage" />
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/aagarwal1012/animated-text-kit?color=red"
-      alt="License: MIT" />
-  </a>
-  <a href="https://github.com/Solido/awesome-flutter#animation">
-    <img src="https://img.shields.io/badge/Awesome-Flutter-FC60A8?logo=awesome-lists"
-      alt="Awesome Flutter" />
-  </a>
-  <a href="https://www.paypal.me/aagarwal1012">
-    <img src="https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal"
-      alt="Donate" />
-  </a>
-</p><br>
+Hello, I am a passionate back-end Developer,
+always looking to find the best thing of which are helpful in learning Back-end Development
+ 
 
-<a href="https://flutter.dev/docs/development/packages-and-plugins/favorites">
-  <img height="150" align="right" src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/flutter-favorite-badge.png?raw=true">
+
+ 💬 About me ...<br>
+<ul>
+  <li>🌱🌱 I’m currently learning HTML5,JavaScript,Advance JavaScript, Node JS, Express, MongoDB, React</li>
+<li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
+<!--   <li>📰 My First Web Page_____________</li> -->
+</ul>
+👯 I’m looking to collaborate on ..
+<ul>
+  <li>Open source Projects</li>
+  <!-- <li>Full-stack Development</li> -->
+  <li>Mern Back-end Development</li>
+</ul>
+
+<br/>
+❤ Views and Followers <br/>
+<!-- <a href="https://twitter.com/SubodhP21161089">
+  <img align="left" alt="Subodh Pal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a> -->
+<a href="https://www.linkedin.com/in/subodh-pal-285474233/">
+  <img align="left" alt="Subodh Pal LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 
-# Table of contents
-
-- [Flutter Package of the Week](#flutter-package-of-the-week)
-- [Installing](#installing)
-- [Usage](#usage)
-  - [New with Version 3](#new-with-version-3)
-- [Animations](#animations)
-  - [Rotate](#rotate)
-  - [Fade](#fade)
-  - [Typer](#typer)
-  - [Typewriter](#typewriter)
-  - [Scale](#scale)
-  - [Colorize](#colorize)
-  - [TextLiquidFill](#textliquidfill)
-  - [Wavy](#wavy)
-  - [Flicker](#flicker)
-  - [Create your own Animations](#create-your-own-animations)
-- [Bugs or Requests](#bugs-or-requests)
-- [Contributors](#contributors)
-
-# Flutter Package of the Week
-
-<a href="https://youtu.be/foQTKCQqVWk" target="_blank">
-    <img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/flutter_package_of_the_week.PNG?raw=true"
-      alt="Flutter Package of the Week" />
+<a href="https://leetcode.com/SubodhPal/">
+  <img align="left" alt="Subodh Pal Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
 </a>
 
-# Installing
 
-### 1. Depend on it
+<a href="https://www.hackerrank.com/palsubodh390">
+  <img align="left" alt="Subodh Pal Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
+</a>
+<!-- <a href="https://github.com/palsubodh?tab=followers"><img src="https://img.shields.io/github/followers/nitish906?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
-Add this to your package's `pubspec.yaml` file:
+<p align="left">
+<!-- <a href = "https://www.linkedin.com/in/subodh-pal-285474233/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
+<!-- <a href = "https://www.instagram.com/__its__me__dude__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
+</p>
+<br/>
 
-```yaml
-dependencies:
-  animated_text_kit: ^4.2.2
-```
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-### 2. Install it
 
-You can install packages from the command line:
+<h2>Languages and Tools:</h2>
 
-with `pub`:
 
-```
-$ pub get
-```
+<p float="left" margin:"2%;" > 
+<a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> </a>  &nbsp;   &nbsp;
+<a href="https://spring.io/" rel="nofollow" > <img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" alt="spring" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="max-width: 100%;"> </a>  &nbsp;   &nbsp; 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>   &nbsp;   &nbsp;
+<a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>  &nbsp;   &nbsp;
+<a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a>  &nbsp;   &nbsp;
+<a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>  &nbsp;   &nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img  alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&layout=compact&theme=algolia">
+</p>
 
-with `Flutter`:
 
-```
-$ flutter pub get
-```
+<h2>Stats</h2>
 
-### 3. Import it
+<h4>if you like what i do, maybe consider buying me a coffee/tea</h4>
 
-Now in your `Dart` code, you can use:
+<a href="https://www.buymeacoffee.com/Tazammul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<br>
 
-```dart
-import 'package:animated_text_kit/animated_text_kit.dart';
-```
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-# Usage
+<img src="https://activity-graph.herokuapp.com/graph?username=palsubodh&theme=xcode">
 
-`AnimatedTextKit` is a _Stateful Widget_ that produces text animations.
-Include it in your `build` method like:
-
-```dart
-AnimatedTextKit(
-  animatedTexts: [
-    TypewriterAnimatedText(
-      'Hello world!',
-      textStyle: const TextStyle(
-        fontSize: 32.0,
-        fontWeight: FontWeight.bold,
-      ),
-      speed: const Duration(milliseconds: 2000),
-    ),
-  ],
-  
-  totalRepeatCount: 4,
-  pause: const Duration(milliseconds: 1000),
-  displayFullTextOnTap: true,
-  stopPauseOnTap: true,
-)
-```
-
-It has many configurable properties, including:
-
-- `pause` – the time of the pause between animation texts
-- `displayFullTextOnTap` – tapping the animation will rush it to completion
-- `isRepeatingAnimation` – controls whether the animation repeats
-- `repeatForever` – controls whether the animation repeats forever
-- `totalRepeatCount` – number of times the animation should repeat (when `repeatForever` is `false`)
-
-There are also custom callbacks:
-
-- `onTap` – This is called when a user taps the animated text
-- `onNext(int index, bool isLast)` – This is called before the next text animation, after the previous one's pause
-- `onNextBeforePause(int index, bool isLast)` – This is called before the next text animation, before the previous one's pause
-- `onFinished` - This is called at the end, when the parameter `isRepeatingAnimation` is set to `false`
-
-**Note:** You might come up with an issue that the `text` does not get updated with `setState` as shown [here](https://github.com/aagarwal1012/Animated-Text-Kit/issues/27). The solution to this, is a key that changes based on the text. For reference, watch [this](https://www.youtube.com/watch?v=kn0EOS-ZiIc) video.
-
-## New with Version 3
-
-Version 3 refactored the code so that common animation controls were moved to
-`AnimatedTextKit` and all animations, except for `TextLiquidFill`, extend from
-`AnimatedText`. This saved hundreds of lines of duplicate code, increased
-consistency across animations, and makes it easier to create new animations.
-
-It also makes the animations more flexible because multiple animations may now
-be easily combined. For example:
-
-```dart
-AnimatedTextKit(
-  animatedTexts: [
-    FadeAnimatedText(
-      'Fade First',
-      textStyle: TextStyle(fontSize: 32.0, fontWeight: FontWeight.bold),
-    ),
-    ScaleAnimatedText(
-      'Then Scale',
-      textStyle: TextStyle(fontSize: 70.0, fontFamily: 'Canterbury'),
-    ),
-  ],
-),
-```
-
-Using the legacy `FadeAnimatedTextKit` is equivalent to using `AnimatedTextKit` with `FadeAnimatedText`.
-An advantage of `AnimatedTextKit` is that the `animatedTexts` may be any subclass of `AnimatedText`, while using `FadeAnimatedTextKit` essentially restricts you to using just `FadeAnimatedText`.
-
-### Legacy AnimatedTextKit classes
-
-Have you noticed that animation classes come in pairs?
-For example, there is `FadeAnimatedText` and `FadeAnimatedTextKit`.
-The significant refactoring with Version 3 split the original `FadeAnimatedTextKit` into `FadeAnimatedText` and a re-usable `AnimatedTextKit`, then `FadeAnimatedTextKit` was adjusted for backwards compatibility.
-
-When introducing a new `AnimationText` subclass, you may wonder if you also need to also introduce an additional `Kit` class. The answer is **NO**. :tada:
-
-Going forward, we are championing the adoption of the Version 3 approach, and have deprecated the legacy `Kit` classes.
-This will make creating new animations easier.
-We know it makes some legacy code more verbose, but the flexibility and simplicity is a conscious trade-off.
-
-# Animations
-
-Many animations are provided, but you can also [create your own animations](#create-your-own-animations).
-
-## Rotate
-
-<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/rotate.gif?raw=true" align = "right" height = "300px">
-
-```dart
-Row(
-  mainAxisSize: MainAxisSize.min,
-  children: <Widget>[
-    const SizedBox(width: 20.0, height: 100.0),
-    const Text(
-      'Be',
-      style: TextStyle(fontSize: 43.0),
-    ),
-    const SizedBox(width: 20.0, height: 100.0),
-    DefaultTextStyle(
-      style: const TextStyle(
-        fontSize: 40.0,
-        fontFamily: 'Horizon',
-      ),
-      child: AnimatedTextKit(
-        animatedTexts: [
-          RotateAnimatedText('AWESOME'),
-          RotateAnimatedText('OPTIMISTIC'),
-          RotateAnimatedText('DIFFERENT'),
-        ],
-        onTap: () {
-          print("Tap Event");
-        },
-      ),
-    ),
-  ],
-);
-```
-
-**Note:** You can override transition height by setting the value of parameter `transitionHeight` for RotateAnimatedTextKit class.
-
-## Fade
-
-<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/fade.gif?raw=true" align = "right" height = "300px">
-
-```dart
-return SizedBox(
-  width: 250.0,
-  child: DefaultTextStyle(
-    style: const TextStyle(
-      fontSize: 32.0,
-      fontWeight: FontWeight.bold,
-    ),
-    child: AnimatedTextKit(
-      animatedTexts: [
-        FadeAnimatedText('do IT!'),
-        FadeAnimatedText('do it RIGHT!!'),
-        FadeAnimatedText('do it RIGHT NOW!!!'),
-      ],
-      onTap: () {
-        print("Tap Event");
-      },
-    ),
-  ),
-);
-```
-
-## Typer
-
-<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/typer.gif?raw=true" align = "right" height = "300px">
-
-```dart
-return SizedBox(
-  width: 250.0,
-  child: DefaultTextStyle(
-    style: const TextStyle(
-      fontSize: 30.0,
-      fontFamily: 'Bobbers',
-    ),
-    child: AnimatedTextKit(
-      animatedTexts: [
-        TyperAnimatedText('It is not enough to do your best,'),
-        TyperAnimatedText('you must know what to do,'),
-        TyperAnimatedText('and then do your best'),
-        TyperAnimatedText('- W.Edwards Deming'),
-      ],
-      onTap: () {
-        print("Tap Event");
-      },
-    ),
-  ),
-);
-```
-
-## Typewriter
-
-<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/typewriter.gif?raw=true" align = "right" height = "300px">
-
-```dart
-return SizedBox(
-  width: 250.0,
-  child: DefaultTextStyle(
-    style: const TextStyle(
-      fontSize: 30.0,
-      fontFamily: 'Agne',
-    ),
-    child: AnimatedTextKit(
-      animatedTexts: [
-        TypewriterAnimatedText('Discipline is the best tool'),
-        TypewriterAnimatedText('Design first, then code'),
-        TypewriterAnimatedText('Do not patch bugs out, rewrite them'),
-        TypewriterAnimatedText('Do not test bugs out, design them out'),
-      ],
-      onTap: () {
-        print("Tap Event");
-      },
-    ),
-  ),
-);
-```
-
-## Scale
-
-<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/scale.gif?raw=true" align = "right" height = "300px">
-
-```dart
-return SizedBox(
-  width: 250.0,
-  child: DefaultTextStyle(
-    style: const TextStyle(
-      fontSize: 70.0,
-      fontFamily: 'Canterbury',
-    ),
-    child: AnimatedTextKit(
-      animatedTexts: [
-        ScaleAnimatedText('Think'),
-        ScaleAnimatedText('Build'),
-        ScaleAnimatedText('Ship'),
-      ],
-      onTap: () {
-        print("Tap Event");
-      },
-    ),
-  ),
-);
-```
-
-## Colorize
-
-<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/colorize.gif?raw=true" align = "right" height = "300px">
-
-```dart
-const colorizeColors = [
-  Colors.purple,
-  Colors.blue,
-  Colors.yellow,
-  Colors.red,
-];
-
-const colorizeTextStyle = TextStyle(
-  fontSize: 50.0,
-  fontFamily: 'Horizon',
-);
-
-return SizedBox(
-  width: 250.0,
-  child: AnimatedTextKit(
-    animatedTexts: [
-      ColorizeAnimatedText(
-        'Larry Page',
-        textStyle: colorizeTextStyle,
-        colors: colorizeColors,
-      ),
-      ColorizeAnimatedText(
-        'Bill Gates',
-        textStyle: colorizeTextStyle,
-        colors: colorizeColors,
-      ),
-      ColorizeAnimatedText(
-        'Steve Jobs',
-        textStyle: colorizeTextStyle,
-        colors: colorizeColors,
-      ),
-    ],
-    isRepeatingAnimation: true,
-    onTap: () {
-      print("Tap Event");
-    },
-  ),
-);
-```
-
-**Note:** `colors` list should contains at least two values.
-
-## TextLiquidFill
-
-<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/text_liquid_fill.gif?raw=true" align = "right" height = "300px">
-
-```dart
-return SizedBox(
-  width: 250.0,
-  child: TextLiquidFill(
-    text: 'LIQUIDY',
-    waveColor: Colors.blueAccent,
-    boxBackgroundColor: Colors.redAccent,
-    textStyle: TextStyle(
-      fontSize: 80.0,
-      fontWeight: FontWeight.bold,
-    ),
-    boxHeight: 300.0,
-  ),
-);
-```
-
-To get more information about how the animated text made from scratch by @HemilPanchiwala, visit the Medium [blog](https://link.medium.com/AfxVRdkWJ2).
-
-## Wavy
-
-<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/wavy.gif?raw=true" align = "right" height = "300px">
-
-```dart
-return DefaultTextStyle(
-  style: const TextStyle(
-    fontSize: 20.0,
-  ),
-  child: AnimatedTextKit(
-    animatedTexts: [
-      WavyAnimatedText('Hello World'),
-      WavyAnimatedText('Look at the waves'),
-    ],
-    isRepeatingAnimation: true,
-    onTap: () {
-      print("Tap Event");
-    },
-  ),
-);
-```
-
-## Flicker
-
-<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/flicker.gif?raw=true" align = "right" height = "300px">
-
-```dart
-return SizedBox(
-  width: 250.0,
-  child: DefaultTextStyle(
-    style: const TextStyle(
-      fontSize: 35,
-      color: Colors.white,
-      shadows: [
-        Shadow(
-          blurRadius: 7.0,
-          color: Colors.white,
-          offset: Offset(0, 0),
-        ),
-      ],
-    ),
-    child: AnimatedTextKit(
-      repeatForever: true,
-      animatedTexts: [
-        FlickerAnimatedText('Flicker Frenzy'),
-        FlickerAnimatedText('Night Vibes On'),
-        FlickerAnimatedText("C'est La Vie !"),
-      ],
-      onTap: () {
-        print("Tap Event");
-      },
-    ),
-  ),
-);
-```
-
-## Create your own Animations
-
-You can easily create your own animations by creating new classes that extend
-`AnimatedText`, just like most animations in this package. You will need to
-implement:
-
-- Class _constructor_ – Initializes animation parameters.
-- `initAnimation` – Initializes `Animation` instances and binds them to the given `AnimationController`.
-- `animatedBuilder` – Builder method to return a `Widget` based on `Animation` values.
-- `completeText` – Returns the `Widget` to display once the animation is complete. (The default implementation returns a styled `Text` widget.)
-
-Then use `AnimatedTextKit` to display the custom animated text class like:
-
-```dart
-AnimatedTextKit(
-  animatedTexts: [
-    CustomAnimatedText(
-      'Insert Text Here',
-      textStyle: const TextStyle(
-        fontSize: 32.0,
-        fontWeight: FontWeight.bold,
-      ),
-    ),
-  ],
-),
-```
-
-# Bugs or Requests
-
-If you encounter any problems feel free to open an [issue](https://github.com/aagarwal1012/Animated-Text-Kit/issues/new?template=bug_report.md). If you feel the library is missing a feature, please raise a [ticket](https://github.com/aagarwal1012/Animated-Text-Kit/issues/new?template=feature_request.md) on GitHub and I'll look into it. Pull request are also welcome.
-
-See [Contributing.md](https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/CONTRIBUTING.md).
-
-# Contributors
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://salih.dev"><img src="https://avatars2.githubusercontent.com/u/24432752?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Muhammed Salih Guler</b></sub></a><br /><a href="https://github.com/aagarwal1012/Animated-Text-Kit/issues?q=author%3Asalihgueler" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://github.com/anderscheow"><img src="https://avatars0.githubusercontent.com/u/11788504?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anders Cheow</b></sub></a><br /><a href="https://github.com/aagarwal1012/Animated-Text-Kit/issues?q=author%3Aanderscheow" title="Bug reports">🐛</a> <a href="#ideas-anderscheow" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://rashiwal.me/"><img src="https://avatars2.githubusercontent.com/u/31043830?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rohit Ashiwal</b></sub></a><br /><a href="https://github.com/aagarwal1012/Animated-Text-Kit/issues?q=author%3Ar1walz" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://github.com/AdamSGit"><img src="https://avatars3.githubusercontent.com/u/6126439?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AdamSGit</b></sub></a><br /><a href="#ideas-AdamSGit" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-AdamSGit" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/hemilpanchiwala"><img src="https://avatars0.githubusercontent.com/u/42446679?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hemil Panchiwala</b></sub></a><br /><a href="#maintenance-hemilpanchiwala" title="Maintenance">🚧</a> <a href="#ideas-hemilpanchiwala" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/aagarwal1012/Animated-Text-Kit/commits?author=hemilpanchiwala" title="Documentation">📖</a> <a href="#example-hemilpanchiwala" title="Examples">💡</a></td>
-    <td align="center"><a href="https://yiminghan.com"><img src="https://avatars1.githubusercontent.com/u/10720534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>YiMing Han</b></sub></a><br /><a href="#ideas-yiminghan" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/AadumKhor"><img src="https://avatars2.githubusercontent.com/u/37381075?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aayush Malhotra</b></sub></a><br /><a href="#maintenance-AadumKhor" title="Maintenance">🚧</a> <a href="#ideas-AadumKhor" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/aagarwal1012/Animated-Text-Kit/issues?q=author%3AAadumKhor" title="Bug reports">🐛</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://anthonywhitford.com/"><img src="https://avatars2.githubusercontent.com/u/123887?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anthony Whitford</b></sub></a><br /><a href="#ideas-awhitford" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-awhitford" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://zzaning.com"><img src="https://avatars3.githubusercontent.com/u/12035097?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jordy Wong</b></sub></a><br /><a href="https://github.com/aagarwal1012/Animated-Text-Kit/issues?q=author%3Aaliyoge" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://github.com/SirusCodes"><img src="https://avatars0.githubusercontent.com/u/50910066?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Darshan Rander</b></sub></a><br /><a href="#ideas-SirusCodes" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/aagarwal1012/Animated-Text-Kit/commits?author=SirusCodes" title="Code">💻</a> <a href="#design-SirusCodes" title="Design">🎨</a></td>
-    <td align="center"><a href="https://jemmytech.com"><img src="https://avatars3.githubusercontent.com/u/17760450?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nsiah Akuoko Jeremiah</b></sub></a><br /><a href="https://github.com/aagarwal1012/Animated-Text-Kit/commits?author=nakjemmy" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/aniketambore"><img src="https://avatars2.githubusercontent.com/u/52826253?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aniket Ambore</b></sub></a><br /><a href="https://github.com/aagarwal1012/Animated-Text-Kit/commits?author=aniketambore" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://medium.com/@abhayvashokan"><img src="https://avatars1.githubusercontent.com/u/35297280?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhay V Ashokan</b></sub></a><br /><a href="https://github.com/aagarwal1012/Animated-Text-Kit/commits?author=AbhayVAshokan" title="Code">💻</a></td>
-    <td align="center"><a href="https://linktr.ee/ritvij14"><img src="https://avatars.githubusercontent.com/u/51456744?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ritvij Kumar Sharma</b></sub></a><br /><a href="https://github.com/aagarwal1012/Animated-Text-Kit/commits?author=ritvij14" title="Code">💻</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Koniiro"><img src="https://avatars.githubusercontent.com/u/81352867?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Koniiro</b></sub></a><br /><a href="https://github.com/aagarwal1012/Animated-Text-Kit/commits?author=Koniiro" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/CoderInTheWoods"><img src="https://avatars.githubusercontent.com/u/25412142?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kalgi Sheth</b></sub></a><br /><a href="https://github.com/aagarwal1012/Animated-Text-Kit/commits?author=CoderInTheWoods" title="Code">💻</a> <a href="#example-CoderInTheWoods" title="Examples">💡</a> <a href="https://github.com/aagarwal1012/Animated-Text-Kit/commits?author=CoderInTheWoods" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/Mohitmadhav"><img src="https://avatars.githubusercontent.com/u/59333817?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohit_007</b></sub></a><br /><a href="https://github.com/aagarwal1012/Animated-Text-Kit/commits?author=Mohitmadhav" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome! See [Contributing.md](https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/CONTRIBUTING.md).
+<img src="https://github-profile-trophy.vercel.app/?username=palsubodh&theme=monokai&row=1&column=4">
+<h3>When not coding:</h3>
+Reading Novels 📚<br>
+Writing(Blog & Contend) ✍️<br>
+Travelling(Historical Places) 🏍️<br>
+Exercise 🏋🏻‍♂️<br>
+Creating Podcast &#127925;<br>
+<br>
+___________________________________________________
+<code>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
+</code>
