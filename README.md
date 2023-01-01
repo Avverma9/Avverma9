@@ -8,81 +8,28 @@ always looking to find the best thing of which are helpful in learning Back-end 
  
 
 
- 💬 About me ...<br>
-<ul>
-  <li>🌱🌱 I’m currently learning HTML5,JavaScript,Advance JavaScript, Node JS, Express, MongoDB, React</li>
-<li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
-<!--   <li>📰 My First Web Page_____________</li> -->
-</ul>
-👯 I’m looking to collaborate on ..
-<ul>
-  <li>Open source Projects</li>
-  <!-- <li>Full-stack Development</li> -->
-  <li>Mern Back-end Development</li>
-</ul>
+- 🌱 I’m currently learning **React Js,**
 
-<br/>
-❤ other site and Followers <br/>
-<a href="https://www.linkedin.com/in/ankit-kumar-verma-7773b6226/">
-  <img align="left" alt="Subodh Pal LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
-</a>
+- 👯 I’m looking to collaborate on **Any Company**
 
-<a href="https://leetcode.com/av95766/">
-  <img align="left" alt="Subodh Pal Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
-</a>
+- 🤝 I’m looking for help with **the person or company who is passionate in their fields**
 
+- 💬 Ask me about **Nodejs, MongoDb, Javascript**
 
-<a href="https://youtube.com/@Avverma9">
-  <img align="left" alt="Subodh Pal Hackerrank" width="80px" src="https://1000logos.net/wp-content/uploads/2017/05/Color-YouTube-logo.jpg" />
-</a>
-<!-- <a href="https://github.com/palsubodh?tab=followers"><img src="https://img.shields.io/github/followers/nitish906?label=Followers&style=social" alt="GitHub Badge"></a> -->
+- 📫 How to reach me **Youtube.com/@avverma9**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pSIS6sxGOdCAFKCdVHTG71X_qDjvdXaH/view?usp=share_link](https://drive.google.com/file/d/1pSIS6sxGOdCAFKCdVHTG71X_qDjvdXaH/view?usp=share_link)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href = "https://www.linkedin.com/in/subodh-pal-285474233/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
-<!-- <a href = "https://www.instagram.com/__its__me__dude__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
-</p>
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-<h2>Languages and Tools:</h2>
-
-
-<p float="left" margin:"2%;" > 
-<a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> </a>  &nbsp;   &nbsp;
-<a href="https://spring.io/" rel="nofollow" > <img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" alt="spring" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="max-width: 100%;"> </a>  &nbsp;   &nbsp; 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>   &nbsp;   &nbsp;
-<a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>  &nbsp;   &nbsp;
-<a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a>  &nbsp;   &nbsp;
-<a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>  &nbsp;   &nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img  alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&layout=compact&theme=algolia">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-kumar-verma-7773b6226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-kumar-verma-7773b6226/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/ankit.verma95766" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ankit.verma95766" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/youtube.com/@avverma9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/@avverma9" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/av95766/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/av95766/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<h2>Stats</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avverma9&show_icons=true&locale=en&layout=compact" alt="avverma9" /></p>
 
-<h4>if you like what i do, maybe consider buying me a coffee/tea</h4>
-
-<a href="https://www.buymeacoffee.com/Tazammul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<img src="https://activity-graph.herokuapp.com/graph?username=palsubodh&theme=xcode">
-
-<img src="https://github-profile-trophy.vercel.app/?username=palsubodh&theme=monokai&row=1&column=4">
-<h3>When not coding:</h3>
-Reading Novels 📚<br>
-Writing(Blog & Contend) ✍️<br>
-Travelling(Historical Places) 🏍️<br>
-Exercise 🏋🏻‍♂️<br>
-Creating Podcast &#127925;<br>
-<br>
-___________________________________________________
-<code>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
-</code>
