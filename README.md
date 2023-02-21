@@ -1,6 +1,6 @@
 ### Hi there👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Ankit+Kumar+verma!;Backend-+Developer...;" style="width: 90%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Welcome+It's+Ankit+Kumar+verma!;Mern-Stack+Developer...;" style="width: 90%;">
 
 
 Hello, I am a passionate back-end Developer,
